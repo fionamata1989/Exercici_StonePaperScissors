@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Exercici_PedraPaperTisoresLlangardaixSpock_3brqdi31_wpftmp
+build_property.ProjectDir = C:\Users\fiona\source\repos\M07\Exercici_PedraPaperTisoresLlangardaixSpock\Exercici_PedraPaperTisoresLlangardaixSpock\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

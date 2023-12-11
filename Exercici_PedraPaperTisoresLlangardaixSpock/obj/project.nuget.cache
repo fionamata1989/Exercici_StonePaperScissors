@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JflGQcieemoBqxGVBXiEvgQAaxpOOvykSm3RDreTyHw5xDIeH9UTJajAJj6z9+LZNvzezPaUH4RMQmSRMb8FZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fiona\\source\\repos\\M07\\Exercici_PedraPaperTisoresLlangardaixSpock\\Exercici_PedraPaperTisoresLlangardaixSpock\\Exercici_PPTLS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fiona\\.nuget\\packages\\extended.wpf.toolkit\\4.5.1\\extended.wpf.toolkit.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
